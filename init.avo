@@ -1,3 +1,3 @@
-func test_print(arg) {
-  echo("printed:", arg)
+func make_fun() {
+  echo("Ok it's fun")
 }
